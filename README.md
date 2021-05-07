@@ -1,4 +1,4 @@
-# sample repo - random (gh repo)
+# sample repo - variables (gh repo)
 
 ## Intro
 
